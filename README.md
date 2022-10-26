@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @dleninja, you can call me Dave. There is an AI revolution on the horizon and I'm happy to be a part of it!
 - 👀 I’m interested in image processing and the application of artificial intelligence for biomedical imaging.
 - 🌱 I’m currently working on projects related to the classification of retinal diseases (retinopathy) and segmentation of retinal vessels in Optical Coherence Tomography (OCT).
+- 📧 I'm open for collaboration, feel free to contact me at dleninja117@gmail.com
 
 <!---
 dleninja/dleninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
