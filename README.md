@@ -15,13 +15,20 @@ I am a research engineer delving into deep neural networks for computer vision i
 - 📧 If you have any questions, feel free to send an email@ `dleninja117@gmail.com`.
 - 🔭 I’m currently working on [MF-AV-Net](https://github.com/dleninja/mf-av-net).
 
+
+---
+
+<details>
+<summary>⚙️<strong>GitHub Statistics</strong></summary>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleninja&show_icons=true&theme=transparent&bg_color=00000000" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=transparent&bg_color=00000000" />
 </p>
 <p align="center">
+</details>
 
 ---
+
 ## Research into OCT and OCTA
 
 OCT and OCTA are advanced imaging techniques that provide fast, non-invasive, real-time, high-resolution, and 3D imaging. They offer numerous digital biomarkers that are useful for various applications. Although retinal imaging is the most common application of OCT and OCTA, they can also be used in other fields such as dermatology and dentistry. With a wealth of valuable data, OCT/OCTA can be readily applied in machine learning and deep learning tasks, including disease classification, image segmentation, and denoising.
