@@ -10,7 +10,7 @@
 
 Skills: Python / TensorFlow / PyTorch / R / MATLAB
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this [page](https://github.com/dleninja/mf-av-net)
 
 
 
