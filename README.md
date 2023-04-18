@@ -17,7 +17,7 @@ I'm a research engineer develing into deep neural networks for computer vision i
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleninja&show_icons=true&theme=transparent&bg_color=00000000" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=transparent&bg_color=00000000" />
+  
 </p>
 <p align="center">
 
