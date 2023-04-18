@@ -9,7 +9,7 @@
 
 ---
 
-I'm a research engineer develing into deep neural networks for computer vision in medical imaging. All my coding projects are in coordination with peer-reviewed publications for real-world applications. I’m currently working on projects related to the classification of retinal diseases and segmentation of retinal vessels in Optical Coherence Tomography (OCT) and OCT angiography (OCTA).
+I am a research engineer delving into deep neural networks for computer vision in medical imaging. All of my coding projects are developed in coordination with peer-reviewed publications for real-world applications. Currently, I am working on projects related to the classification of retinal diseases and the segmentation of retinal vessels in Optical Coherence Tomography (OCT) and OCT angiography (OCTA).
 
 - 👋 There is an AI revolution on the horizon and I'm happy to be a part of it!
 - 📧 If you have any questions, feel free to send an email@ `dleninja117@gmail.com`.
