@@ -30,6 +30,16 @@ I am a research engineer delving into deep neural networks for computer vision i
 </p>
 </details>
 
+  
+<!-- 
+Python, MATLAB, R, HTML, SQL,
+TensorFlow, Keras, PyTorch
+OpenCV, NumPy, SciPy, Pandas, Matplotlib, Pillow,
+ImageJ, MS Word, MS PowerPoint, MS Excel, OriginPro, Jupyter
+Linux, Windows
+-->
+</details>
+
 ---
 
 ## Research into OCT and OCTA
