@@ -21,10 +21,13 @@ I am a research engineer delving into deep neural networks for computer vision i
 <details>
 <summary>⚙️<strong>GitHub Statistics</strong></summary>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleninja&show_icons=true&theme=transparent&bg_color=00000000" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=transparent&bg_color=00000000" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleninja&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=transparent" />
+</a>
 </p>
-<p align="center">
 </details>
 
 ---
@@ -36,8 +39,6 @@ OCT and OCTA are advanced imaging techniques that provide fast, non-invasive, re
 <p align="center">
   <img src="https://github.com/dleninja/dleninja/blob/main/misc/Xn8IUPw%20-%20Imgur.gif" />
 </p>
-
-
 
 
 
