@@ -1,6 +1,6 @@
 # Learning helps us to be present to the world around us
 ## Computer Vision Scientist
-![Computer Vision Scientist]( https://github.com/dleninja/dleninja/blob/main/misc/github_banner_smaller_v2.png )
+![Computer Vision Scientist]( https://github.com/dleninja/dleninja/blob/main/misc/github_banner_v2_smaller.png )
 
 - 👋 Hi, I’m @dleninja, you can call me Dave. There is an AI revolution on the horizon and I'm happy to be a part of it!
 - 👀 I’m interested in image processing and the application of artificial intelligence for biomedical imaging.
