@@ -25,7 +25,7 @@ I am a research engineer delving into deep neural networks for computer vision i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleninja&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=3&theme=transparent" />
 </a>
 </p>
 </details>
