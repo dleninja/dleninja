@@ -22,10 +22,10 @@ I am a research engineer delving into deep neural networks for computer vision i
 <summary>⚙️<strong>GitHub Statistics</strong></summary>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dleninja&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dleninja&show_icons=true&count_private=True&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=synthwave" />
 </a>
 </p>
 </details>
