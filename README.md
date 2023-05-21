@@ -37,6 +37,7 @@ I am a research engineer delving into deep neural networks for computer vision i
 [<img align="left" alt="MATLAB" width="40px" src="assets/svg/Programming Languages SVG/icons8-matlab.svg"/>](https://www.mathworks.com/products/matlab.html)
 [<img align="left" alt="R" width="40px" src="assets/svg/Programming Languages SVG/icons8-r-project.svg"/>](https://www.r-project.org/)
 [<img align="left" alt="SQL" width="40px" src="assets/svg/Programming Languages SVG/icons8-my-sql.svg"/>](https://www.mysql.com/)
+[<img align="left" alt="HTML" width="40px" src="assets/svg/Programming Languages SVG/icons8-html.svg"/>](https://html.spec.whatwg.org/)
 
 [<img align="left" alt="NumPy" width="40px" src="assets/svg/Programming Tools SVG/icons8-numpy.svg"/>](https://numpy.org/)
 [<img align="left" alt="OpenCV" width="40px" src="assets/svg/Programming Tools SVG/icons8-opencv.svg"/>](https://opencv.org/)
@@ -48,6 +49,9 @@ I am a research engineer delving into deep neural networks for computer vision i
 [<img align="left" alt="Visual Studios" width="40px" src="assets/svg/IDE SVG/icons8-visual-studio.svg"/>](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Sublime" width="40px" src="assets/svg/IDE SVG/sublime-text-svgrepo-com.svg"/>](https://www.sublimetext.com/)
 [<img align="left" alt="Spyder" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181859%21Spyder_logo.svg"/>](https://www.spyder-ide.org/)
+
+[<img align="left" alt="Linux" width="40px" src="assets/svg/OS SVG/linux-svgrepo-com.svg"/>](https://www.linux.org/)
+[<img align="left" alt="Windows" width="40px" src="assets/svg/OS SVG/windows-applications-svgrepo-com.svg"/>](https://www.microsoft.com/en-us/windows)
 
 <br/>
 <br/>
