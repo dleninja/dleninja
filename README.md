@@ -17,9 +17,7 @@ I am a research engineer delving into deep neural networks for computer vision i
 
 
 ---
-
-<details>
-<summary>⚙️<strong>GitHub Statistics</strong></summary>
+### ⚙️ GitHub Statistics
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dleninja&show_icons=true&count_private=True&theme=nightowl" />
@@ -28,34 +26,32 @@ I am a research engineer delving into deep neural networks for computer vision i
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=nightowl" />
 </a>
 </p>
-</details>
 
+### 💻 Languages and Tools
+
+  [<img align="left" alt="TensorFlow" width="40px" src="assets/svg/Machine Learning SVG/icons8-tensorflow.svg"/>][github]
+  <img align="left" alt="Keras" width="40px" src="assets/svg/Machine Learning SVG/keras-svgrepo-com.svg"/>
+  <img align="left" alt="Pytorch" width="40px" src="assets/svg/Machine Learning SVG/pytorch-svgrepo-com.svg"/>
   
-<!-- 
-Python, MATLAB, R, HTML, SQL,
-TensorFlow, Keras, PyTorch
-OpenCV, NumPy, SciPy, Pandas, Matplotlib, Pillow,
-ImageJ, MS Word, MS PowerPoint, MS Excel, OriginPro, Jupyter
-Linux, Windows
-
-
-<details>
-<summary>⚙️<strong>GitHub Statistics</strong></summary>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dleninja&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleninja&langs_count=8&theme=transparent" />
-</a>
-</p>
-</details>
-
-
--->
-</details>
-
----
+  <img align="left" alt="Python" width="40px" src="assets/svg/Programming Languages SVG/icons8-python.svg"/>
+  <img align="left" alt="MATLAB" width="40px" src="assets/svg/Programming Languages SVG/icons8-matlab.svg"/>
+  <img align="left" alt="R" width="40px" src="assets/svg/Programming Languages SVG/icons8-r-project.svg"/>
+  <img align="left" alt="SQL" width="40px" src="assets/svg/Programming Languages SVG/icons8-my-sql.svg"/>
+  
+  <img align="left" alt="NumPy" width="40px" src="assets/svg/Programming Tools SVG/icons8-numpy.svg"/>
+  <img align="left" alt="OpenCV" width="40px" src="assets/svg/Programming Tools SVG/icons8-opencv.svg"/>
+  <img align="left" alt="Pandas" width="40px" src="assets/svg/Programming Tools SVG/icons8-pandas.svg"/>
+  <img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
+  <img align="left" alt="SciPy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>
+  
+  <img align="left" alt="Jupyter" width="40px" src="assets/svg/IDE SVG/icons8-jupyter.svg"/>
+  <img align="left" alt="Visual Studios" width="40px" src="assets/svg/IDE SVG/icons8-visual-studio.svg"/>
+  <img align="left" alt="Sublime" width="40px" src="assets/svg/IDE SVG/sublime-text-svgrepo-com.svg"/>
+  <img align="left" alt="Spyder" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181859%21Spyder_logo.svg"/>
+  
+  <br/>
+  <br/>
+  <br/>
 
 ## Research into OCT and OCTA
 
@@ -64,23 +60,3 @@ OCT and OCTA are advanced imaging techniques that provide fast, non-invasive, re
 <p align="center">
   <img src="assets/images/oct_octa.gif" />
 </p>
-
-
-
-
-
-
-<!---
-# Learning helps us to be present to the world around us
-
-- 👋 Hi, I’m @dleninja, you can call me Dave. There is an AI revolution on the horizon and I'm happy to be a part of it!
-- 👀 I’m interested in image processing and the application of artificial intelligence for biomedical imaging.
-- 🌱 I’m currently working on projects related to the classification of retinal diseases (retinopathy) and segmentation of retinal vessels in Optical Coherence Tomography (OCT) and OCT angiography (OCTA).
-- 📧 If you have any questions, feel free to send an email@ `dleninja117@gmail.com`.
-
-[![Dleninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleninja)](https://github.com/anuraghazra/github-readme-stats)
---->
-<!---
-dleninja/dleninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
