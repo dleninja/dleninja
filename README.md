@@ -57,6 +57,8 @@ I am a research engineer delving into deep neural networks for computer vision i
 <br/>
 <br/>
 
+---
+
 ## Research into OCT and OCTA
 
 OCT and OCTA are advanced imaging techniques that provide fast, non-invasive, real-time, high-resolution, and 3D imaging. They offer numerous digital biomarkers that are useful for various applications. Although retinal imaging is the most common application of OCT and OCTA, they can also be used in other fields such as dermatology and dentistry. With a wealth of valuable data, OCT/OCTA can be readily applied in machine learning and deep learning tasks, including disease classification, image segmentation, and denoising.
