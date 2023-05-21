@@ -29,29 +29,29 @@ I am a research engineer delving into deep neural networks for computer vision i
 
 ### 💻 Languages and Tools
 
-  [<img align="left" alt="TensorFlow" width="40px" src="assets/svg/Machine Learning SVG/icons8-tensorflow.svg"/>][github]
-  <img align="left" alt="Keras" width="40px" src="assets/svg/Machine Learning SVG/keras-svgrepo-com.svg"/>
-  <img align="left" alt="Pytorch" width="40px" src="assets/svg/Machine Learning SVG/pytorch-svgrepo-com.svg"/>
-  
-  <img align="left" alt="Python" width="40px" src="assets/svg/Programming Languages SVG/icons8-python.svg"/>
-  <img align="left" alt="MATLAB" width="40px" src="assets/svg/Programming Languages SVG/icons8-matlab.svg"/>
-  <img align="left" alt="R" width="40px" src="assets/svg/Programming Languages SVG/icons8-r-project.svg"/>
-  <img align="left" alt="SQL" width="40px" src="assets/svg/Programming Languages SVG/icons8-my-sql.svg"/>
-  
-  <img align="left" alt="NumPy" width="40px" src="assets/svg/Programming Tools SVG/icons8-numpy.svg"/>
-  <img align="left" alt="OpenCV" width="40px" src="assets/svg/Programming Tools SVG/icons8-opencv.svg"/>
-  <img align="left" alt="Pandas" width="40px" src="assets/svg/Programming Tools SVG/icons8-pandas.svg"/>
-  <img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
-  <img align="left" alt="SciPy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>
-  
-  <img align="left" alt="Jupyter" width="40px" src="assets/svg/IDE SVG/icons8-jupyter.svg"/>
-  <img align="left" alt="Visual Studios" width="40px" src="assets/svg/IDE SVG/icons8-visual-studio.svg"/>
-  <img align="left" alt="Sublime" width="40px" src="assets/svg/IDE SVG/sublime-text-svgrepo-com.svg"/>
-  <img align="left" alt="Spyder" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181859%21Spyder_logo.svg"/>
-  
-  <br/>
-  <br/>
-  <br/>
+[<img align="left" alt="TensorFlow" width="40px" src="assets/svg/Machine Learning SVG/icons8-tensorflow.svg"/>](https://www.tensorflow.org/)
+[<img align="left" alt="Keras" width="40px" src="assets/svg/Machine Learning SVG/keras-svgrepo-com.svg"/>](https://keras.io/)
+[<img align="left" alt="PyTorch" width="40px" src="assets/svg/Machine Learning SVG/pytorch-svgrepo-com.svg"/>](https://pytorch.org/)
+
+[<img align="left" alt="Python" width="40px" src="assets/svg/Programming Languages SVG/icons8-python.svg"/>](https://www.python.org/)
+[<img align="left" alt="MATLAB" width="40px" src="assets/svg/Programming Languages SVG/icons8-matlab.svg"/>](https://www.mathworks.com/products/matlab.html)
+[<img align="left" alt="R" width="40px" src="assets/svg/Programming Languages SVG/icons8-r-project.svg"/>](https://www.r-project.org/)
+[<img align="left" alt="SQL" width="40px" src="assets/svg/Programming Languages SVG/icons8-my-sql.svg"/>](https://www.mysql.com/)
+
+[<img align="left" alt="NumPy" width="40px" src="assets/svg/Programming Tools SVG/icons8-numpy.svg"/>](https://numpy.org/)
+[<img align="left" alt="OpenCV" width="40px" src="assets/svg/Programming Tools SVG/icons8-opencv.svg"/>](https://opencv.org/)
+[<img align="left" alt="Pandas" width="40px" src="assets/svg/Programming Tools SVG/icons8-pandas.svg"/>](https://pandas.pydata.org/)
+[<img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>](https://matplotlib.org/)
+[<img align="left" alt="SciPy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>](https://scipy.org/)
+
+[<img align="left" alt="Jupyter" width="40px" src="assets/svg/IDE SVG/icons8-jupyter.svg"/>](https://jupyter.org/)
+[<img align="left" alt="Visual Studios" width="40px" src="assets/svg/IDE SVG/icons8-visual-studio.svg"/>](https://visualstudio.microsoft.com/)
+[<img align="left" alt="Sublime" width="40px" src="assets/svg/IDE SVG/sublime-text-svgrepo-com.svg"/>](https://www.sublimetext.com/)
+[<img align="left" alt="Spyder" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181859%21Spyder_logo.svg"/>](https://www.spyder-ide.org/)
+
+<br/>
+<br/>
+<br/>
 
 ## Research into OCT and OCTA
 
