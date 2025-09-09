@@ -9,12 +9,14 @@
 
 ---
 
-I am a research engineer delving into deep neural networks for computer vision in medical imaging. All of my coding projects are developed in coordination with peer-reviewed publications for real-world applications. Currently, I am working on projects related to the classification of retinal diseases and the segmentation of retinal vessels in Optical Coherence Tomography (OCT) and OCT angiography (OCTA).
+I build AI solutions that bridge research and industry applications. My expertise spans computer vision, natural language processing, and multimodal learning, with a focus on healthcare and life sciences.
 
-- 👋 There is an AI revolution on the horizon and I'm happy to be a part of it!
-- 📧 If you have any questions, feel free to send an email@ `dleninja117@gmail.com`.
-- 🔭 I’m currently working on [MF-AV-Net](https://github.com/dleninja/mf-av-net).
+I specialize in designing scalable machine learning pipelines, fine-tuning transformer architectures, and integrating imaging, text, and structured data into production-ready models. My work translates advanced AI research into tools that can support clinical decision-making, risk stratification, and automation in real-world settings.
 
+
+- 👋 Passionate about solving high-impact problems with AI.
+- 📧 Reach me at dleninja117@gmail.com.
+- 🔭 Current focus: Multimodal survival modeling and AI for medical imaging & clinical text.
 
 ---
 ### ⚙️ GitHub Statistics
