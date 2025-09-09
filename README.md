@@ -64,9 +64,11 @@ I specialize in designing scalable machine learning pipelines, fine-tuning trans
 
 ---
 
-## Research into OCT and OCTA
+## 🌐 Current Interests
 
-OCT and OCTA are advanced imaging techniques that provide fast, non-invasive, real-time, high-resolution, and 3D imaging. They offer numerous digital biomarkers that are useful for various applications. Although retinal imaging is the most common application of OCT and OCTA, they can also be used in other fields such as dermatology and dentistry. With a wealth of valuable data, OCT/OCTA can be readily applied in machine learning and deep learning tasks, including disease classification, image segmentation, and denoising.
+- Multimodal AI – integrating imaging, text, and structured data for predictive modeling.
+- Healthcare Applications – survival analysis, risk stratification, digital biomarkers.
+- Scalable AI Engineering – distributed training, reproducible pipelines, and deployment.
 
 <p align="center">
   <img src="assets/images/oct_octa.gif" />
