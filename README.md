@@ -1,6 +1,6 @@
 # 🚀 Dave Le
 
-**`Computer Vision Scientist (Researcher/Developer/Enthusiast)`**
+**`Research Scientist`**
 ---
 
 <p align="center">
