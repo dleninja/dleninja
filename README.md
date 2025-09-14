@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="assets/images/github_banner_smaller.png" />
+  <img src="assets/images/github_banner.png" />
 </p>
 
 ---
