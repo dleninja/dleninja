@@ -3,9 +3,7 @@
 **`Research Scientist`**
 ---
 
-<p align="center">
-  <img src="assets/images/github_banner.png" />
-</p>
+
 
 ---
 
